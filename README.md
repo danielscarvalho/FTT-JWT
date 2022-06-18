@@ -15,3 +15,7 @@ Ferramentas:
 - Java
 - Eclipse
 - Maven
+
+Infografico:
+
+![](https://pbs.twimg.com/media/FVR7VG4aQAA5PCA?format=jpg&name=large)
