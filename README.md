@@ -5,7 +5,7 @@ JWT token encoding - Java
 
 Segurança com token JWT
 
-> ...mas eu acho isso uma merda!! Mas tá na moda!
+> ...eu acho isso uma merda!! Mas tá na moda!
 
 https://jwt.io/
 
